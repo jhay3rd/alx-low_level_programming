@@ -1,6 +1,6 @@
-0x1A-hash_tables#
+0x1A-hash_tables #
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+At the end of this project, i am expected to be able to explain to anyone, without the help of Google:
 
     What is a hash function
     What makes a good hash function
